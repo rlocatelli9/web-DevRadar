@@ -1,0 +1,13 @@
+header.main {
+  background: #6d4bc9;
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  height: 70px;
+}
+
+header.main img {
+  margin: auto;
+  width: 150px;
+  height: 60px;
+}
